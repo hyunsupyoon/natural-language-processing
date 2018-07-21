@@ -102,3 +102,6 @@ ENV/
 
 # Data for assignments
 data/
+
+# idea
+.idea
